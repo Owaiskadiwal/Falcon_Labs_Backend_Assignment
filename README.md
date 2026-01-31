@@ -19,7 +19,7 @@ This project is a Node.js backend service that ingests IoT sensor temperature re
 ### 1️. Clone the repository
 
 ```bash
-git clone <>
+git clone https://github.com/Owaiskadiwal/Falcon_Labs_Backend_Assignment.git
 cd Falcon_Labs_Assignment
 ```
 
@@ -161,3 +161,4 @@ mqtt://test.mosquitto.org
 > MQTT messages are simulated using a public broker.
 
 ---
+
